@@ -1,0 +1,6 @@
+{
+  "name": "Firefox-micro-forwarder",
+  "tagline": "NDN-JS based micro forwarder browser extension",
+  "body": "### Welcome to the NDN Micro Forwarder\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
